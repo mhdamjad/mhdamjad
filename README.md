@@ -54,15 +54,6 @@ A production-grade management platform for film & TV workflows.
 
 ---
 
-### 🔹 Tech Stack (In Progress)
-A personal productivity platform with:
-- To-do lists
-- Time tracking
-- Journaling & notes
-- AI-powered insights (planned)
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhdamjad&show_icons=true&theme=tokyonight)
